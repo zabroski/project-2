@@ -1,6 +1,6 @@
 # Project 2 Squads:
 
-## Drake Squad:
+## Drake's Squad:
 - Jess
 - Eileen
 - Carlos
@@ -8,7 +8,7 @@
 - Yan
 - Donovan
 
-## John Squad: 
+## John's Squad: 
 - Gabriel
 - Steven 
 - Soleil
@@ -16,14 +16,14 @@
 - Ester
 - Oneil
 
-## Tara Squad:
+## Tara's Squad:
 - Curt
 - Matthew
 - Dima
 - Leo
 - Troy
 
-## Jason Squad:
+## Jason's Squad:
 - Anastasia
 - Jhony 
 - Angel
