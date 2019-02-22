@@ -16,12 +16,12 @@ Show us what you've got!
 #### Your website must:
 
 - Be a working, interactive, React application.
-- Include **one** of the following:
+- Include data from a third-party API.  
     - Pull data into the application using an API  
         [List of Public APIs](https://github.com/toddmotto/public-apis)  
         [More APIs](https://github.com/abhishekbanthia/Public-APIs)  
-    -TRY OUT your API in insomnia before you get too emotionally invested in it, to make sure it works the way you think it  does...
-    - Have two distinct "views" in your application using conditional rendering
+    - TRY OUT your API in the browser by making an axios request before you get too emotionally invested in it, to make sure it works the way you think it does...**YOU ARE REQUIRED TO SHOW US YOU CAN RECEIVE THE DATA FOR YOUR PROPOSAL**
+- Use React Router.
 - Have at least 6 separate components, using a readable file structure.
 - Be built using Create React App.
 - Be styled with CSS.
