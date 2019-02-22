@@ -28,6 +28,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 Define the the React components and the architectural design of your app.
 
 ## Functional Components
+##### Writing out your components and its descriptions isn't a required part of the proposal but can be helpful.
 
 Based on the initial logic defined in the previous sections try and breakdown the logic further into stateless/stateful components. 
 
