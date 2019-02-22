@@ -56,7 +56,8 @@ Example of a [Project Worksheet](https://git.generalassemb.ly/wdi-nyc-bananas/pr
 	- A description of the project you'll be building with the objective described in non-technical language.
 	- An explanation of the major problems you plan to face while implementing this app.
 	- An explanation of how you foresee yourself solving the aforementioned problems.
-	- A link to the API you plan to use
+	- A visual of your component hierarchy.  
+	- A link to the API you plan to use.  
 	- A section clearly defining MVP and POST MVP.
 
 #### For the project:
