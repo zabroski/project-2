@@ -49,7 +49,7 @@ Show us what you've got!
 - Images of your wireframe and component hierarchy.  
 - A code snippet.  
 - User stories.  
-- **Refer to the project worksheet file in this repo for structuring your README.**
+- **Refer to the [project worksheet](https://git.generalassemb.ly/wdi-nyc-bananas/project-2/blob/master/project-worksheet.md) file in this repo for structuring your README.**
 
 ## Necessary Deliverables
 
