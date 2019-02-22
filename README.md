@@ -30,6 +30,8 @@ Show us what you've got!
 - Use functional components and class components appropriately.  
 - Be deployed via GitHub and Surge.    
 
+- **Optionally, you may incorporate a component library to design your app with approval**
+
 #### Your code must:
 
 - Be properly indented.  
@@ -61,6 +63,7 @@ Example of a [Project Worksheet](https://git.generalassemb.ly/wdi-nyc-bananas/pr
 	- A visual of your component hierarchy.  
 	- A link to the API you plan to use.  
 	- A section clearly defining MVP and POST MVP.
+	- If you plan on incorporating a component library, include a link in your proposal.  
 
 #### For the project:
 - A git repository hosted on GitHub, with a link to your hosted project, and frequent commits dating back to the very beginning of the project (YOUR APP SHOULD BE LOCATED IN A SEPARATE STANDING REPO. DO NOT build your app in this repository. YOU MUST initiate a new repo on your GitHub account.)
