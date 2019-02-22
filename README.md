@@ -22,7 +22,7 @@ Show us what you've got!
         [More APIs](https://github.com/abhishekbanthia/Public-APIs)  
 	[Instructor Recommended APIs](https://git.generalassemb.ly/wdi-nyc-bananas/apis)
     - TRY OUT your API in the browser by making an axios request before you get too emotionally invested in it, to make sure it works the way you think it does...**YOU ARE REQUIRED TO SHOW US YOU CAN RECEIVE THE DATA FOR YOUR PROPOSAL**
-- Use React Router.
+- Use React Router installed using npm.
 - Have at least 6 separate components, using a readable file structure.
 - Be built using Create React App.
 - Be styled with CSS.
@@ -37,6 +37,7 @@ Show us what you've got!
 - Be written with kebab-case (dashes) CSS class names.  
 - Contain no `console.log()` or commented out code in final version.  
 - Use only React for DOM manipulation.  
+- No pre-loaded `create-react-app` files or code.
 
 #### Your README must include:
 
