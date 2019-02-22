@@ -25,26 +25,21 @@ Use this section to describe your final project and perhaps any links to relevan
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
 
-## Priority Matrix
-
-Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
-
 ### MVP/PostMVP - 5min
 
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
-#### MVP 
-
+#### MVP EXAMPLE
 - Find and use external api 
 - Render data on page 
 - Allow user to choose favorites 
 - Save their choices in firebase
 
-#### PostMVP 
+#### PostMVP EXAMPLE
 
 - Add user auth
 
-## React Architectural Design
+## React Component Hierarchy
 
 Define the the React components and the architectural design of your app.
 
@@ -85,9 +80,6 @@ function reverse(string) {
 	// here is the code to reverse a string of text
 }
 ```
-
-## Change Log
- Use this section to document what changes were made and the reasoning behind those changes.  
 
 ## Issues and Resolutions
  Use this section to list of all major issues encountered and their resolution.
