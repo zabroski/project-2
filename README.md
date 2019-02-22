@@ -16,7 +16,7 @@ Show us what you've got!
 #### Your website must:
 
 - Be a working, interactive, React application.
-- Include data from a third-party API.  
+- Include data from a third-party API.
     - Pull data into the application using an API  
         [List of Public APIs](https://github.com/toddmotto/public-apis)  
         [More APIs](https://github.com/abhishekbanthia/Public-APIs)  
@@ -27,8 +27,8 @@ Show us what you've got!
 - Be built using Create React App.
 - Be styled with CSS.
 - Use flexbox layout or CSS Grid.
-- Use functional components and class components appropriately.  
-- Be deployed via GitHub and Surge.    
+- Use functional components and class components appropriately.
+- Be deployed via GitHub and Surge.
 
 - **Optionally, you may incorporate a component library to design your app with approval**
 
@@ -49,8 +49,7 @@ Show us what you've got!
 - Images of your wireframe and component hierarchy.  
 - A code snippet.  
 - User stories.  
-
-Example of a [Project Worksheet](https://git.generalassemb.ly/wdi-nyc-bananas/project-1/blob/master/ProjectWorksheet.md)
+- **Refer to the project worksheet file in this repo for structuring your README.**
 
 ## Necessary Deliverables
 
