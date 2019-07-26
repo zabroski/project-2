@@ -16,22 +16,21 @@ Show us what you've got!
 
 #### Your project must be deployed and completed by **Friday, August 2nd at 9:00 AM**.
 
-
 #### Your app must:
 - Be a working, interactive, React application.
 - Include data from a third-party API.
     - Pull data into the application using an API
-        [List of Public APIs](https://github.com/toddmotto/public-apis)
-        [More APIs](https://github.com/abhishekbanthia/Public-APIs)
-	[Instructor Recommended APIs](https://git.generalassemb.ly/sei-nyc-cicadas/apis)
-    - TRY OUT your API by pasting the endpoint in the browser , or making a postman/insomnia request before you get too emotionally invested in it, to make sure it works the way you think it does... **YOU ARE REQUIRED TO SHOW US YOU CAN RECEIVE THE DATA FOR YOUR PROPOSAL**
+        - [List of Public APIs](https://github.com/toddmotto/public-apis)
+        - [More APIs](https://github.com/abhishekbanthia/Public-APIs)
+	- [Instructor Recommended APIs](https://git.generalassemb.ly/sei-nyc-cicadas/apis)
+    - TRY OUT your API by pasting the endpoint in the browser, or making a postman/insomnia request before you get too emotionally invested in it, to make sure it works the way you think it does... **YOU ARE REQUIRED TO SHOW US YOU CAN RECEIVE THE DATA FOR YOUR PROPOSAL**
 - Use React Router installed using npm.
 - Use Axios
 - Have at least 6 separate components, using a readable file structure.
 - Be built using Create React App.
-- Be styled with CSS.
+- Be styled with CSS (should look professional)
 - Adhere to a [color palatte](https://mycolor.space)
-- Use flexbox or (CSS grid) for layout and positionin
+- Use flexbox or (CSS Grid) for layout and positioning
 - Use functional components and class components appropriately.
 - Be deployed via Surge.
 
@@ -47,8 +46,6 @@ Show us what you've got!
 - Brief description of your app
 - Screenshot/video of your project
 - A link to your deployed app
-
-**Refer to the [project worksheet](https://git.generalassemb.ly/wdi-nyc-bananas/project-2/blob/master/project-worksheet.md) file in this repo for structuring your README.**
 
 ## A Note on Plagiarism
 
