@@ -24,7 +24,7 @@ Show us what you've got!
         - [More APIs](https://github.com/abhishekbanthia/Public-APIs)
 	- [Instructor Recommended APIs](https://git.generalassemb.ly/sei-nyc-cicadas/apis)
     - TRY OUT your API by pasting the endpoint in the browser , or making a postman/insomnia request before you get too emotionally invested in it, to make sure it works the way you think it does... **YOU ARE REQUIRED TO SHOW US YOU CAN RECEIVE THE DATA FOR YOUR PROPOSAL**
-- Use React Router installed using `npm install react-router-dom -g`.
+- Use React Router installed using `npm install react-router-dom --save`.
 - Use Axios
 - Have at least 6 separate components, using a readable file structure.
 - Be built using Create React App.
