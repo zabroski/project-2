@@ -20,11 +20,11 @@ Show us what you've got!
 #### Your app must:
 - Be a working, interactive, React application.
 - Include data from a third-party API.
-    - Pull data into the application using an API  
-        [List of Public APIs](https://github.com/toddmotto/public-apis)  
-        [More APIs](https://github.com/abhishekbanthia/Public-APIs)  
+    - Pull data into the application using an API
+        [List of Public APIs](https://github.com/toddmotto/public-apis)
+        [More APIs](https://github.com/abhishekbanthia/Public-APIs)
 	[Instructor Recommended APIs](https://git.generalassemb.ly/sei-nyc-cicadas/apis)
-    - TRY OUT your API in the browser by making an axios request before you get too emotionally invested in it, to make sure it works the way you think it does... **YOU ARE REQUIRED TO SHOW US YOU CAN RECEIVE THE DATA FOR YOUR PROPOSAL**
+    - TRY OUT your API by pasting the endpoint in the browser , or making a postman/insomnia request before you get too emotionally invested in it, to make sure it works the way you think it does... **YOU ARE REQUIRED TO SHOW US YOU CAN RECEIVE THE DATA FOR YOUR PROPOSAL**
 - Use React Router installed using npm.
 - Use Axios
 - Have at least 6 separate components, using a readable file structure.
@@ -37,7 +37,7 @@ Show us what you've got!
 
 #### Your code must:
 - on github.com
-- Be properly indented. cough ESLint cough
+- Be properly indented. *cough* ESLint *cough*
 - Be written with semantic, camelCase JavaScript variable names
 - Be written with kebab-case CSS class names (e.g. this-is-the-class-name)
 - No `console.log()` or commented out code in final version
