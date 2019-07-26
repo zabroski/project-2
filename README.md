@@ -41,7 +41,7 @@ Show us what you've got!
 - Be written with kebab-case CSS class names (e.g. this-is-the-class-name)
 - No `console.log()` or commented out code in final version
 - Use correct folder structure for components and make sure that you name your main component
-  file index.js. This allows us to do:<br/>
+  file `index.js`. This allows us to do:<br/>
   `import Header from './src/components/Header'`<br/>
   instead of:<br/>
   `import Header from './src/components/Header/Header`<br/>
