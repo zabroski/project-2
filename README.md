@@ -40,21 +40,29 @@ Show us what you've got!
 - Be written with semantic, camelCase JavaScript variable names
 - Be written with kebab-case CSS class names (e.g. this-is-the-class-name)
 - No `console.log()` or commented out code in final version
-- Use correct folder structure for components
+- Use correct folder structure for components and make sure that you name your main component
+  file index.js. This allows us to do:
+  `import Header from './src/components/Header'`
+  instead of:
+  `import Header from './src/components/Header/Header`
 
 ```
 Example:
 src
 |__components
 |  |__Header
-|  |  |__Header.js
+|  |  |__index.js
 |  |  |__Header.css
+|  |
 |  |__Footer
+|     |__index.js
+|     |__Footer.css
 |
 App.js
 App.css
 index.js
 ```
+
 
 #### Create a nice README that includes:
 - Name of your project
