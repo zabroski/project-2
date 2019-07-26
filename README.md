@@ -20,9 +20,9 @@ Show us what you've got!
 - Be a working, interactive, React application.
 - Include atleast one data from a third-party API.
     - Pull data into the application using an API
-        [List of Public APIs](https://github.com/toddmotto/public-apis)
-        [More APIs](https://github.com/abhishekbanthia/Public-APIs)
-	[Instructor Recommended APIs](https://git.generalassemb.ly/sei-nyc-cicadas/apis)
+        - [List of Public APIs](https://github.com/toddmotto/public-apis)
+        - [More APIs](https://github.com/abhishekbanthia/Public-APIs)
+	- [Instructor Recommended APIs](https://git.generalassemb.ly/sei-nyc-cicadas/apis)
     - TRY OUT your API by pasting the endpoint in the browser , or making a postman/insomnia request before you get too emotionally invested in it, to make sure it works the way you think it does... **YOU ARE REQUIRED TO SHOW US YOU CAN RECEIVE THE DATA FOR YOUR PROPOSAL**
 - Use React Router installed using `npm install react-router-dom -g`.
 - Use Axios
