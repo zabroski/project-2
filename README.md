@@ -13,12 +13,13 @@ Show us what you've got!
 - A description of the app you'll be building
 - A wireframe (hand-drawn or digitally created) of your app (think how the UX folks created their wireframe)
 - A diagram of your component hierarchy
+- Demonstrate via Postman that you can grab data from your 3rd-party API
 
 #### Your project must be deployed and completed by **Friday, August 2nd at 9:00 AM**.
 
 #### Your app must:
 - Be a working, interactive, React application.
-- Include atleast one data from a third-party API.
+- Include at least one data from a third-party API.
     - Pull data into the application using an API
         - [List of Public APIs](https://github.com/toddmotto/public-apis)
         - [More APIs](https://github.com/abhishekbanthia/Public-APIs)
@@ -27,7 +28,7 @@ Show us what you've got!
 - Use React Router installed using `npm install react-router-dom --save`.
 - Use Axios
 - Have at least 6 separate components, using a readable file structure.
-- Be built using Create React App.
+- Be built using `create-react-app`.
 - Be styled with CSS (should look professional)
 - Adhere to a [color palatte](https://mycolor.space)
 - Use flexbox or (CSS Grid) for layout and positioning
@@ -63,7 +64,6 @@ App.css
 index.js
 README.md
 ```
-
 
 #### Create a nice README that includes:
 - Name of your project
