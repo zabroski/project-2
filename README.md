@@ -19,13 +19,13 @@ Show us what you've got!
 
 #### Your app must:
 - Be a working, interactive, React application.
-- Include data from a third-party API.
+- Include atleast one data from a third-party API.
     - Pull data into the application using an API
         [List of Public APIs](https://github.com/toddmotto/public-apis)
         [More APIs](https://github.com/abhishekbanthia/Public-APIs)
 	[Instructor Recommended APIs](https://git.generalassemb.ly/sei-nyc-cicadas/apis)
     - TRY OUT your API by pasting the endpoint in the browser , or making a postman/insomnia request before you get too emotionally invested in it, to make sure it works the way you think it does... **YOU ARE REQUIRED TO SHOW US YOU CAN RECEIVE THE DATA FOR YOUR PROPOSAL**
-- Use React Router installed using npm.
+- Use React Router installed using `npm install react-router-dom -g`.
 - Use Axios
 - Have at least 6 separate components, using a readable file structure.
 - Be built using Create React App.
@@ -36,11 +36,24 @@ Show us what you've got!
 - Be deployed via Surge.
 
 #### Your code must:
-- on github.com
+- Be on github.com
 - Be properly indented. *cough* ESLint *cough*
 - Be written with semantic, camelCase JavaScript variable names
 - Be written with kebab-case CSS class names (e.g. this-is-the-class-name)
 - No `console.log()` or commented out code in final version
+- Use correct folder structure for components
+
+Example:
+src
+|__components
+|  |__Header
+|  |  |__Header.js
+|  |  |__Header.css
+|  |__Footer
+|
+App.js
+App.css
+index.js
 
 #### Create a nice README that includes:
 - Name of your project
