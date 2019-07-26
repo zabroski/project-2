@@ -42,6 +42,7 @@ Show us what you've got!
 - No `console.log()` or commented out code in final version
 - Use correct folder structure for components
 
+```
 Example:
 src
 |__components
@@ -53,6 +54,7 @@ src
 App.js
 App.css
 index.js
+```
 
 #### Create a nice README that includes:
 - Name of your project
