@@ -1,7 +1,6 @@
 import React from 'react';
 import Album from '../Album';
 
-
 class  AlbumList extends React.Component {
     constructor(props) {
         super(props);
@@ -17,6 +16,4 @@ class  AlbumList extends React.Component {
         );
     }
 }
-
-
 export default AlbumList;

@@ -1,68 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+#title
 
-### `npm start`
+    The title is Music is life.
+    The User will select an artists name and he or she will get the artists information and background informtaion including the albums images.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+   
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+# description and user story 
 
-### `npm test`
+    This app is returning artist information along with the latest albums including the artist logo and the album cover pictures.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+#-why this project for you?
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    I chose to build this project because I enjoy music.  Music is a large part of my life.  It is everthing for me. I know that many people love music and can relate to my love of music.  I assume most people in this world listen to music everday and would like to know more about artists. This app will help users to find out their favorite artists infomation.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#-how would a user (not you) approach this project if using it in the wild (i.e. how would a player play your game).
 
-### `npm run eject`
+    The user can go onto the internet and find the app. In the future the user can listen to thier favoirte artists audio.  Users can also find this app in github.   
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## technologies & packages
+    In this app I used HTML , JAVASCRIPT, CSS in REACT.JS.
+    I used API to get the artist data to display it as well. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## launch/build 
+#-how do you run the game for users who clone your repo. 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    Users have to clone the repository from github and open the index.html file.
+    Use can receive a link of the app.  
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## major problems & solutions
+    There are a few bugs to fix and some issues to find good assets (images) to illustrate the game.
+    I had an issue at the beginning of my project,  and to solve this problem I had to switch an API because it wasn't responding as I wanted it to.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## MVP
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+    Setup Up initial Routes and Links
+    I use music API.
+    CSS animation and to style the project
 
-### Analyzing the Bundle Size
+#-describe stretch goals, wips, next steps (this can be a separate heading if you want)
+    For next steps, I want to add more details to the artist information and perhaps add more pictures.  
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

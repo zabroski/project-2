@@ -7,7 +7,6 @@ class Album extends React.Component {
 
         }
     }
-
     render() {
         return(
             <div className='images-parent'>
@@ -17,6 +16,4 @@ class Album extends React.Component {
         )
     }
 }
-
-
 export default Album;

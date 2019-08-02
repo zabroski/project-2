@@ -8,8 +8,6 @@ import { Route, Link } from "react-router-dom";
 import AboutPage from './component/AboutPage';
 import ArtistSelector from './component/ArtistSelector';
 
-// import ArtistList from './component/ArtistList';
-// import { request } from 'https';
 
 class App extends React.Component {
   constructor(props) {
@@ -19,13 +17,6 @@ class App extends React.Component {
       albums: []
     };
   }
-
-  /*componentDidMount(){
-    let artistName = "coldplay";
-    this.loadArtist(artistName);
-    this.loadArtistAlbums(artistName);
-  } */
-
   loadArtist = async (artistName) => {
     let url = 'http://theaudiodb.com/api/v1/json/1/search.php?s=' + artistName;
 
@@ -73,11 +64,6 @@ class App extends React.Component {
     return (
       <div className="main"> 
            <p className="main-p"> Please choose an artist.</p>
-            <div className="main-div"></div>
-            <div className="main-div"></div>
-            <div className="main-div"></div>
-            <div className="main-div"></div>
-           
       </div>
     );
   }
@@ -87,13 +73,7 @@ class App extends React.Component {
     return(
     
       <div className="app-container">
-
-            <Header />
-            {/* <nav className="nav-container">
-              <Link to="/home"> Home </Link>
-              <Link to="/about"> About </Link>
-              
-            </nav> */}
+              <Header />
             <Route path="/home" render={ (props) => {
               return (
                 <div>
@@ -106,20 +86,12 @@ class App extends React.Component {
             <Route path="/about" render={(props) =>{
               return <AboutPage />;
             }}/>
-
             <div className="footer">
               <Footer/>
-            </div>
-
-           
+            </div>  
       </div>
     )
   }
-
-
-
-
-
 }
 
 export default App;
