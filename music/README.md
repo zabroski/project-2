@@ -34,8 +34,7 @@
 
 
 ## major problems & solutions
-    There are a few bugs to fix and some issues to find good assets (images) to illustrate the game.
-    I had an issue at the beginning of my project,  and to solve this problem I had to switch an API because it wasn't responding as I wanted it to.
+    I had an issue at the beginning of my project,  and to solve this problem I had to switch an API because it wasn't responding as I wanted it to. 
 
 
 ## MVP
@@ -44,6 +43,5 @@
     I use music API.
     CSS animation and to style the project
 
-#-describe stretch goals, wips, next steps (this can be a separate heading if you want)
-    For next steps, I want to add more details to the artist information and perhaps add more pictures.  
+
 
