@@ -74,7 +74,12 @@ class App extends React.Component {
     
       <div className="app-container">
               <Header />
-            <Route path="/home" render={ (props) => {
+
+              <Route path="/about" render={(props) =>{
+                return <AboutPage />;
+              }}/>
+
+            <Route path="/" render={ (props) => {
               return (
                 <div>
                   <ArtistSelector handleChangeArtist={this.handleChange} />
@@ -83,9 +88,7 @@ class App extends React.Component {
             ) 
             }}/>
 
-            <Route path="/about" render={(props) =>{
-              return <AboutPage />;
-            }}/>
+    
             <div className="footer">
               <Footer/>
             </div>  

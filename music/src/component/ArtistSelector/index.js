@@ -19,7 +19,7 @@ class ArtistSelector extends React.Component {
                 <select className="select-container" onChange = {this.handleChange} name="artist">
                     <option>Choose artist</option>
                     <option value="Adele">Adele</option>
-                    <option value="Akon">Akon</option>
+                    {/* <option value="Akon">Akon</option> */}
                     <option value="beyonce">Beyonce</option>
                     <option value="Bob Marley">Bob Marley</option>
                     <option value="coldplay">Coldplay</option>

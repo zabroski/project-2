@@ -12,7 +12,7 @@ class Header extends React.Component {
                     <div className="music-life">
                             <h1 className="title">Music is Life</h1>
                         <div className="home-about">
-                            <Link className="links" to="/home">Home</Link>
+                            <Link className="links" to="">Home</Link>
                             <Link className="links" to="/about">About</Link>
                         </div>
                     </div>
